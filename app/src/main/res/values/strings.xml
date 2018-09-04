@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JoshProjectCustomer</string>
+    <string name="textCallService">聯絡櫃檯</string>
+    <string name="textInstantService">客房服務</string>
+    <string name="textStatusService">服務進度</string>
+    <string name="textTrafficService">接送服務</string>
+    <string name="textDinlingService">餐點服務</string>
+    <string name="textRoomService">清潔服務</string>
+</resources>
